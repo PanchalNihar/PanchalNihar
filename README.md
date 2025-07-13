@@ -5,7 +5,7 @@ I'm an Engineering student passionate about DevOps, Cloud, and building cool tec
 - 🌱 I’m currently learning: Kubernetes, AWS (Preparing for Cloud Practitioner)
 - 🔭 I’m working on: A multiplayer trivia game using Angular, Node.js, and AWS
 - 🤝 I’m open to: DevOps internships and collaborations on open-source cloud projects
-- 📫 Reach me at: your.email@example.com | [LinkedIn](https://linkedin.com/in/your-profile)
+- 📫 Reach me at: nihar2624@gmail.com | [LinkedIn](https://www.linkedin.com/in/panchalnihar761b682a5/)
 
 ## 🧰 Tech Stack
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
@@ -16,8 +16,8 @@ I'm an Engineering student passionate about DevOps, Cloud, and building cool tec
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nihar-codes&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nihar-codes&layout=compact&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=panchalnihar&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=panchalnihar&layout=compact&theme=tokyonight)
 
 ## ⚡ Fun fact:
 I drink more coffee debugging than I do writing code ☕🐞
