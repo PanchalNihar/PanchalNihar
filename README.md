@@ -1,23 +1,65 @@
-# 👋 Hi, I'm Nihar!
+<h1 align="center">👋 Hi, I'm Nihar Panchal</h1>
 
-I'm an Engineering student passionate about DevOps, Cloud, and building cool tech with AI. Currently exploring Kubernetes, AWS, and Docker one container at a time 🐳🚀
+<p align="center">
+🚀 Aspiring DevOps Developer | Cloud Enthusiast | Lifelong Learner  
+</p>
 
-- 🌱 I’m currently learning: Kubernetes, AWS (Preparing for Cloud Practitioner)
-- 🔭 I’m working on: A multiplayer trivia game using Angular, Node.js, and AWS
-- 🤝 I’m open to: DevOps internships and collaborations on open-source cloud projects
-- 📫 Reach me at: nihar2624@gmail.com | [LinkedIn](https://www.linkedin.com/in/panchalnihar761b682a5/)
+---
 
-## 🧰 Tech Stack
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
+### 💡 About Me
+I'm a passionate engineering student diving deep into the world of **DevOps**—containers, clusters, pipelines, and all that cool chaos.  
+Currently learning **Kubernetes**, exploring cloud infrastructure, and building full-stack apps on the side.
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=panchalnihar&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=panchalnihar&layout=compact&theme=tokyonight)
+---
 
-## ⚡ Fun fact:
-I drink more coffee debugging than I do writing code ☕🐞
+### 🔧 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" />
+</p>
+
+---
+
+### 🔥 Projects
+| Project | Description |
+|--------|-------------|
+| **[FairShare](https://github.com/PanchalNihar/FairShare)** | A web-based app for fair expense sharing—like Splitwise, but cooler. |
+| **[Hoodlink](https://github.com/PanchalNihar/Hoodlink)** | A neighborhood social platform to connect and collaborate locally. |
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PanchalNihar&show_icons=true&theme=tokyonight" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanchalNihar&layout=compact&theme=tokyonight" width="49.5%" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PanchalNihar&theme=gruvbox&row=1&no-bg=true" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+- 📫 Email: nihar2624@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/panchalnihar761b682a5/)
+- 🔗 [Twitter](https://x.com/PanchalNihar2)  
+<!-- Add portfolio or Twitter if applicable -->
+
+---
+
+### ⚡ Fun Fact
+I debug in the terminal like it’s my second home—and yes, my Docker containers have names cooler than I do 😎
+
+---
+
+> _“Automate the boring, containerize the useful, deploy the awesome.”_  
