@@ -34,21 +34,6 @@ Currently learning **Kubernetes**, exploring cloud infrastructure, and building 
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PanchalNihar&show_icons=true&theme=tokyonight" width="49.5%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanchalNihar&layout=compact&theme=tokyonight" width="49.5%" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PanchalNihar&theme=gruvbox&row=1&no-bg=true" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 - 📫 Email: nihar2624@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/panchalnihar761b682a5/)
