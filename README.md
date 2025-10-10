@@ -47,4 +47,9 @@ I debug in the terminal like it’s my second home—and yes, my Docker containe
 
 ---
 
+### 🏅 Holopin Badges
+[![An image of @yourusername's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/panchalnihar)](https://holopin.io/@panchalnihar)
+
+---
+
 > _“Automate the boring, containerize the useful, deploy the awesome.”_  
