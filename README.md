@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Nihar Panchal</h1>
 
 <p align="center">
-🚀 Frontend Developer (Angular | Node.js | Express | MongoDB) | DevOps & Cloud Enthusiast | Lifelong Learner  
+🚀 Fullstack Developer (Angular | Node.js | Express | MongoDB) | DevOps & Cloud Enthusiast | Lifelong Learner  
 </p>
 
 ---
