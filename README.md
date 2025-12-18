@@ -1,4 +1,4 @@
-h1 align="center">👋 Hi, I'm Nihar Panchal</h1>
+<h1 align="center">👋 Hi, I'm Nihar Panchal</h1>
 
 <p align="center">
 🚀 Fullstack Developer (Angular | Node.js | Express | MongoDB) | DevOps & Cloud Enthusiast | Lifelong Learner  
